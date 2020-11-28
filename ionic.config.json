@@ -1,0 +1,8 @@
+{
+  "name": "TutorTrackerAng",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "764d74cb"
+}
